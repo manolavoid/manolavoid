@@ -1,16 +1,39 @@
-## Hi there 👋
+```text
+                                        __
+                 ,-_                  (`  ).
+                 |-_'-,              (     ).
+                 |-_'-'           _(        '`.
+        _        |-_'/        .=(`(      .     )
+       /;-,_     |-_'        (     (.__.:-`-_.'
+      /-.-;,-,___|'          `(       ) )
+     /;-;-;-;_;_/|\_ _ _ _ _   ` __.:'   )
+        x_( __`|_P_|`-;-;-;,|        `--'
+        |\ \    _||   `-;-;-'
+        | \`   -_|.      '-'
+        | /   /-_| `
+        |/   ,'-_|  \
+        /____|'-_|___\
+ _..,____]__|_\-_'|____,.._
+'                          ``'--,..,.
+                      by Mic Barendsz
 
-<!--
-**manolavoid/manolavoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+# Hi, I'm Emanuel! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Software Engineering enthusiast** currently pursuing a degree in **Analysis and Systems Development**. My focus is on building efficient, scalable applications and mastering the intricacies of backend development.
+
+---
+
+### About Me
+* **Current Focus:** Deep-diving into the **Java & Kotlin** ecosystem. I have a strong interest in build automation (Gradle), API integrations, and event-driven logic.
+* **Background:** I have a solid foundation in **C#** from years of developing interactive systems and real-time logic. This experience shaped my understanding of Object-Oriented Programming (OOP) and performance optimization.
+* **Academic Journey:** I am in my first year of **Analysis and Systems Development**, where I’m formalizing my knowledge in software architecture and data structures.
+
+### Tech Stack
+* **Languages:** Java, Kotlin, C#
+* **Tools & Workflow:** Git, Gradle, IntelliJ IDEA, Unix-based environments.
+* **Specialties:** Third-party API Integration, OOP Design Patterns, and System Extensibility.
+
+### Professional Goals
+I am transitioning my logic-driven background into the broader software development market. I enjoy solving "under-the-hood" challenges, whether it's managing complex dependencies or optimizing how different software components communicate with each other.
