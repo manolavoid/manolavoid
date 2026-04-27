@@ -1,19 +1,18 @@
-
 # Hi, I'm Emanuel! 👋
 
-I am a **Software Engineering enthusiast** currently pursuing a degree in **Analysis and Systems Development**. My focus is on building efficient, scalable applications and mastering the intricacies of backend development.
+I am a student of **Analysis and Systems Development**. My current focus is on building my programming foundations, mastering backend logic, and exploring the world of data.
 
 ---
 
-### About Me
-* **Current Focus:** Deep-diving into the **Java & Kotlin** ecosystem. I have a strong interest in build automation (Gradle), API integrations, and event-driven logic.
-* **Background:** I have a solid foundation in **C#** from years of developing interactive systems and real-time logic. This experience shaped my understanding of Object-Oriented Programming (OOP) and performance optimization.
-* **Academic Journey:** I am in my first year of **Analysis and Systems Development**, where I’m formalizing my knowledge in software architecture and data structures.
+### 📚 About Me
+* **Current Focus:** Deep-diving into **Java** for backend development and starting my journey with **Python and SQL** to understand data structures and management.
+* **Background:** I have experience in **C#** and interactive systems, which helped me build a solid understanding of Object-Oriented Programming (OOP) and logic.
+* **Academic Journey:** I am in my first year of **Analysis and Systems Development**, where I am formalizing my knowledge in software architecture and algorithm efficiency.
 
-### Tech Stack
-* **Languages:** Java, Kotlin, C#
+### 🛠 Tech Stack
+* **Languages:** Java, C#.
 * **Tools & Workflow:** Git, Gradle, IntelliJ IDEA, Unix-based environments.
-* **Specialties:** Third-party API Integration, OOP Design Patterns, and System Extensibility.
+* **Learning:** Backend architecture and the foundations of **Data Engineering**.
 
-### Professional Goals
-I am transitioning my logic-driven background into the broader software development market. I enjoy solving "under-the-hood" challenges, whether it's managing complex dependencies or optimizing how different software components communicate with each other.
+### 🎯 Professional Goals
+I am focused on evolving from a student to a professional developer. I enjoy solving "under-the-hood" challenges, from managing logic-heavy applications to understanding how data flows through a system. My goal is to build reliable software while expanding my knowledge in data infrastructure.
