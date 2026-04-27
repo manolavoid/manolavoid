@@ -17,24 +17,3 @@ I am a **Software Engineering enthusiast** currently pursuing a degree in **Anal
 
 ### Professional Goals
 I am transitioning my logic-driven background into the broader software development market. I enjoy solving "under-the-hood" challenges, whether it's managing complex dependencies or optimizing how different software components communicate with each other.
-
-```text
-                                        __
-                 ,-_                  (`  ).
-                 |-_'-,              (     ).
-                 |-_'-'           _(        '`.
-        _        |-_'/        .=(`(      .     )
-       /;-,_     |-_'        (     (.__.:-`-_.'
-      /-.-;,-,___|'          `(       ) )
-     /;-;-;-;_;_/|\_ _ _ _ _   ` __.:'   )
-        x_( __`|_P_|`-;-;-;,|        `--'
-        |\ \    _||   `-;-;-'
-        | \`   -_|.      '-'
-        | /   /-_| `
-        |/   ,'-_|  \
-        /____|'-_|___\
- _..,____]__|_\-_'|____,.._
-'                          ``'--,..,.
-                      by Mic Barendsz
-
-```
