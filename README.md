@@ -27,4 +27,4 @@ I am a **Software Engineering** student currently in my 2nd period of **Analysis
 ---
 
 ### 🎯 Professional Goals
-I am actively working toward opportunities in **Backend Development** and **Data Engineering**. I thrive on solving "under-the-hood" logic challenges—from optimizing database queries to structuring scalable software architecture and data pipelines.
+I am actively working toward opportunities in **Backend Development** and **Data Engineering**.
